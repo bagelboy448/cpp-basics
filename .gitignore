@@ -1,0 +1,21 @@
+
+*.user
+*.vcxproj
+*.sln
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.filters
+*.json
+/Stack Template/.vs
+*.cpp
+*.obj
+*.recipe
+*.ilk
+*.log
+*.tlog
+*.pdb
+*.idb
+*.exe
